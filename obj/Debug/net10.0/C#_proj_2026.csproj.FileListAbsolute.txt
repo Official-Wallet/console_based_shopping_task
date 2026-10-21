@@ -1,0 +1,14 @@
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\bin\Debug\net10.0\C#_proj_2026.exe
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\bin\Debug\net10.0\C#_proj_2026.deps.json
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\bin\Debug\net10.0\C#_proj_2026.runtimeconfig.json
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\bin\Debug\net10.0\C#_proj_2026.dll
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\bin\Debug\net10.0\C#_proj_2026.pdb
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\C#_proj_2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\C#_proj_2026.AssemblyInfoInputs.cache
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\C#_proj_2026.AssemblyInfo.cs
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\C#_proj_2026.csproj.CoreCompileInputs.cache
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\C#_proj_2026.dll
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\refint\C#_proj_2026.dll
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\C#_proj_2026.pdb
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\C#_proj_2026.genruntimeconfig.cache
+C:\Users\Official Wallet\C# Journey\C#_proj_2026\obj\Debug\net10.0\ref\C#_proj_2026.dll
