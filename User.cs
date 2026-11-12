@@ -5,86 +5,86 @@ using System.Threading.Tasks;
 
 namespace C__proj_2026
 {
-    public class User
+    public class User: IUser
     {
         
-        private string username;
+        private string Username;
 
-        private string user_id;
+        private string User_id;
 
-        private string email;
+        private string Email;
 
-        private string password;
+        private string Password;
 
         public string GetUsername()
         {
             
-            return this.username;
+            return this.Username;
 
         }
-
+        
         public void SetUsername(string username)
         {
             
-            this.username = username;
+            this.Username = username;
 
         }
 
         public string GetUser_id()
         {
             
-            return this.user_id;
+            return this.User_id;
 
         }
-
+        
         public void SetUser_id(string user_id)
         {
             
-            this.user_id = user_id;
+            this.User_id = user_id;
 
         }
 
         public string GetEmail()
         {
             
-            return this.email;
+            return this.Email;
 
         }
-
+        
         public void SetEmail(string email)
         {
             
-            this.email = email;
+            this.Email = email;
 
         }
 
         public string GetPassword()
         {
             
-            return this.password;
+            return this.Password;
 
         }
-
+        
         public void SetPassword(string password)
         {
             
-            this.password = password;
+            this.Password = password;
 
         }
 
         public User(string username, string user_id, string email, string password)
         {
 
-            this.username = username;
+            this.Username = username;
 
-            this.user_id = user_id;
+            this.User_id = user_id;
 
-            this.email = email;
+            this.Email = email;
 
-            this.password = password;
+            this.Password = password;
 
         }
-
+    
     }
 
 }
